@@ -364,7 +364,6 @@ data[['Views','Likes','Comments','Stream']].corr()
 
 ```text
 ├── Spotify_YouTube_Analysis.ipynb
-├── Spotify_Youtube.csv
 ├── README.md
 ```
 
